@@ -146,7 +146,7 @@
         height: auto;
         max-width: 240px;
         position: relative;
-        left:  25%;
+        left:  20%;
         flex-direction: column;
     }
 }
@@ -157,7 +157,7 @@
         height: auto;
         max-width: 280px;
         position: relative;
-        left:  25%;
+        left:  20%;
         flex-direction: column;
     }
 }
