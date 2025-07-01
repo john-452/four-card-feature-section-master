@@ -146,7 +146,7 @@
         height: 90vh;
         max-width: 240px;
         position: relative;
-        left:  20%;
+        right:  10%;
         flex-direction: column;
     }
 }
@@ -157,7 +157,7 @@
         height: 90vh;
         max-width: 280px;
         position: relative;
-        left:  20%;
+        right:  15%;
         flex-direction: column;
     }
 }
