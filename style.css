@@ -143,7 +143,7 @@
 @media (max-width: 480px) {
     .container {
         width:  85vw; /*85% of screen width*/
-        height: auto;
+        height: 90vh;
         max-width: 240px;
         position: relative;
         left:  20%;
@@ -154,7 +154,7 @@
 @media (max-width: 320px) {
     .container {
         width:  90vw; /*85% of screen width*/
-        height: auto;
+        height: 90vh;
         max-width: 280px;
         position: relative;
         left:  20%;
